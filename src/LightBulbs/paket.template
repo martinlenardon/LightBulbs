@@ -1,0 +1,23 @@
+type project
+owners
+    Martin J. Lenardon
+authors 
+    Martin J. Lenardon
+projectUrl
+    http://github.com/martinlenardon/LightBulbs
+iconUrl
+    https://raw.githubusercontent.com/martinlenardon/LightBulbs/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/martinlenardon/LightBulbs/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    
+summary
+    Evaluating light bulb purchases
+description
+    Evaluating light bulb purchases
+
+
