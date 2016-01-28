@@ -1,4 +1,13 @@
-
+NUGET
+  remote: https://www.nuget.org/api/v2
+  specs:
+    FSharp.Core (4.0.0.1)
+    MathNet.Numerics (3.10.0)
+      TaskParallelLibrary (>= 1.0.2856) - framework: net35
+    MathNet.Numerics.FSharp (3.10.0)
+      FSharp.Core (>= 3.1.2.5)
+      MathNet.Numerics (3.10.0)
+    TaskParallelLibrary (1.0.2856) - framework: net35
 
 GROUP Build
 NUGET
